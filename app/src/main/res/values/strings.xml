@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NewsApp</string>
+    <string name="title_breaking_news">Berita Terkini</string>
+    <string name="title_search_news">Cari Berita</string>
+    <string name="title_bookmarks">Bookmarks</string>
+    <string name="breaking">Terkini</string>
+    <string name="search">Cari</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="could_not_refresh">Ops, ada kesalahan: %s</string>
+    <string name="could_not_load_search_results">Ops, ada kesalahan pencarian: %s</string>
+    <string name="unknown_error_occurred">Ops, Error</string>
+    <string name="retry">Coba Lagi</string>
+    <string name="refresh">Refresh</string>
+    <string name="no_bookmarks">Tidak ada berita di bookmarks</string>
+    <string name="no_results_found">Pencarian tidak ditemukan</string>
+    <string name="search_instructions">Silahkan cari berita sesuai keyword</string>
+    <string name="delete_all_bookmarks">Hapus semua Bookmarks</string>
+</resources>
